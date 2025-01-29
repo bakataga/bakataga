@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bakataga
-- 👀 I’m interested in agriculture, pâtisserie, medecine, mode, climat, games, animals, 
+- 👀 I’m interested about your code, 
 - 🌱 I’m currently learning code, html , css et j'apprendrai jusqu'à la fin de ma vie 
   
 
